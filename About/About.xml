@@ -2,7 +2,7 @@
 <ModMetaData>
   <packageId>hsk.grower.cut.trees.patch</packageId>
   <name>HSK Grower Cut Trees Patch</name>
-  <modVersion>1.1</modVersion>
+  <modVersion>1.2</modVersion>
   <author>kebabebak</author>
   <supportedVersions>
     <li>1.5</li>
